@@ -4,20 +4,18 @@ Sourcecode &amp; Demos for **Visualize your Data**, an Open Source North Speaker
 
 ## Exploratory Analysis
 
-Here is the stack we will utilize for Exploratory Analysis:
+Stack:
+1. [Python](https://www.python.org/)
+1. [Pandas](https://pandas.pydata.org/)
+1. [Lux](https://github.com/lux-org/lux/blob/master/README.md)
+1. [Jupyter Notebook](https://jupyter.org/)
+1. [Mybinder](https://mybinder.org/)
 
-1. Python
-1. Pandas
-1. Lux
-1. JupyterLab Notebook
-1. Mybinder.org
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jaylandro/visualize-your-data/HEAD?filepath=%2Fnotebooks%2Fexploratory_demo.ipynb) Launch the Exploratory Lux Demo in Binder
 
-Click here to launch the Exploraoty Python/Lux Demo:
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jaylandro/visualize-your-data/HEAD)
+## Explanatory Visualization
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jaylandro/visualize-your-data/HEAD?filepath=%2Fnotebooks%2Fexploratory_demo.ipynb)
+[Svelte Fusioncharts](https://github.com/fusioncharts/svelte-fusioncharts/blob/develop/README.md)
 
-## Explanatory Analysis
 
-Svelte Fusioncharts
