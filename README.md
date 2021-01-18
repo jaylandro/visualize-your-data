@@ -16,6 +16,8 @@ Click here to launch the Exploraoty Python/Lux Demo:
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jaylandro/visualize-your-data/HEAD)
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jaylandro/visualize-your-data/HEAD?filepath=%2Fnotebooks%2Fexploratory_demo.ipynb)
+
 ## Explanatory Analysis
 
 Svelte Fusioncharts

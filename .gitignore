@@ -135,3 +135,6 @@ public/build
 
 .DS_Store
 
+# other
+.vscode
+
