@@ -2,6 +2,8 @@
 
 Sourcecode &amp; Demos for **Visualize your Data**, an Open Source North Speaker Series 2021 presentation
 
+Slides available here: [https://slides.com/jaylandro/visualize-your-data/live](https://slides.com/jaylandro/visualize-your-data/live)
+
 ## Exploratory Analysis
 
 Stack:
@@ -11,7 +13,9 @@ Stack:
 1. [Jupyter Notebook](https://jupyter.org/)
 1. [Mybinder](https://mybinder.org/)
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jaylandro/visualize-your-data/HEAD?filepath=%2Fnotebooks%2Fexploratory_demo.ipynb) Launch the Exploratory Lux Demo in Binder
+**↓ Launch the Exploratory Lux Demo in Binder ↓**
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jaylandro/visualize-your-data/HEAD?filepath=%2Fnotebooks%2Fexploratory_demo.ipynb) 
 
 
 ## Explanatory Visualization
