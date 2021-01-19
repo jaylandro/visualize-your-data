@@ -1,7 +1,8 @@
-import App from "./App.svelte";
+import Chart from "./Chart.svelte";
 
-const app = new App({
+const app = new Chart({
   target: document.body,
+  id: "hpi",
 });
 
 export default app;
