@@ -11,7 +11,7 @@ Stack:
 1. [Pandas](https://pandas.pydata.org/)
 1. [Lux](https://github.com/lux-org/lux/blob/master/README.md)
 1. [Jupyter Notebook](https://jupyter.org/)
-1. [Mybinder](https://mybinder.org/)
+1. [Binder](https://mybinder.org/)
 
 **↓ Launch the Exploratory Lux Demo in Binder ↓**
 
