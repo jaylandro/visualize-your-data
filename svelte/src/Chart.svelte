@@ -11,7 +11,7 @@ fcRoot(FusionCharts, Charts, FusionTheme);
 const dataSource = {
   "chart": {
     "caption": "Top 10 Happy Life Years by Country",
-    "yaxisname": "Country",
+    "yaxisname": "Years",
     "aligncaptionwithcanvas": "0",
     "plottooltext": "<b>$dataValue</b> years of happines",
     "theme": "fusion"
