@@ -20,6 +20,10 @@ Stack:
 
 ## Explanatory Visualization
 
+[FINISHED RESULT](https://visualize-your-data.netlify.app/)
+
+[Raw Dataset as JSON](https://visualize-your-data.netlify.app/hpi-explanatory.json)
+[Jq](https://stedolan.github.io/jq/)
 [Svelte Fusioncharts](https://github.com/fusioncharts/svelte-fusioncharts/blob/develop/README.md)
 
 
