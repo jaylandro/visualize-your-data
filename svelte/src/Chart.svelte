@@ -10,42 +10,75 @@ fcRoot(FusionCharts, Charts, FusionTheme);
 
 const dataSource = {
   "chart": {
-    "caption": "Lead sources by industry",
-    "yaxisname": "Number of Leads",
+    "caption": "Top 10 Happy Life Years by Country",
+    "yaxisname": "Country",
     "aligncaptionwithcanvas": "0",
-    "plottooltext": "<b>$dataValue</b> leads received",
+    "plottooltext": "<b>$dataValue</b> years of happines",
     "theme": "fusion"
   },
   "data": [
     {
-      "label": "Travel & Leisure",
-      "value": "41"
+      "label": "Switzerland",
+      "value": 59.3,
+      "Footprint": 5.8
     },
     {
-      "label": "Advertising/Marketing/PR",
-      "value": "39"
+      "label": "Iceland",
+      "value": 58,
+      "Footprint": 6.4
     },
     {
-      "label": "Other",
-      "value": "38"
+      "label": "Sweden",
+      "value": 57.4,
+      "Footprint": 7.3
     },
     {
-      "label": "Real Estate",
-      "value": "32"
+      "label": "Norway",
+      "value": 57.1,
+      "Footprint": 5
     },
+    {
+      "label": "Netherlands",
+      "value": 57,
+      "Footprint": 5.3
+    },
+    {
+      "label": "Finland",
+      "value": 54.6,
+      "Footprint": 5.9
+    },
+    {
+      "label": "Denmark",
+      "value": 54.4,
+      "Footprint": 5.5
+    },
+    {
+      "label": "Austria",
+      "value": 54.4,
+      "Footprint": 6.1
+    },
+    {
+      "label": "Canada",
+      "value": 53.9,
+      "Footprint": 8.2
+    },
+    {
+      "label": "Australia",
+      "value": 53.1,
+      "Footprint": 9.3
+    }
   ]
 };
 
 const chartConfigs = {
    type: 'bar2d',
    width: 600,
-   height: 400,
+   height: 600,
+   order: 'desc',
    dataFormat: 'json',
    dataSource
 };
 
-// dataFormat: 'jsonurl',
-// dataSource: 'https://static.fusioncharts.com/sample/oilReserves.json'
 </script>
 
 <SvelteFC {...chartConfigs} />
